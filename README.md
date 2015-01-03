@@ -1,14 +1,11 @@
-BNR4e_Ch18_Homepwner_SavingLoadingAppStates
-===================================
-
+#BNR4e\_Ch18\_Homepwner\_SavingLoadingAppStates
 Big Nerd Ranch's iOS Programming 4th ed, Hillegass & Conway
 Ch 18 - Saving, Loading and Application States
 
-Homepwner app 
+## Homepwner app 
+- Homepwner is an app for tracking the inventory for household items.
 - this app builds on the functionality of the Homepwner app from chapter 17.
- 
-- the app's model data is now archived; model data is saved when app 
-transitions to background.
+- the app's model data is now archived; model data is saved when app transitions to background.
 
 -----------------------------------
 Tagging Conventions: 
@@ -18,7 +15,7 @@ where x is the chapter number, and 4 represents the 4th edition of BNR.
 
 -----------------------------------
 
-Chapter 18 covers the following :
+### Chapter 18 covers the following :
 
 - Archiving, NSKeyedArchiver and NSKeyedUnarchiver
 - Constructing File Paths and the Application Sandbox
